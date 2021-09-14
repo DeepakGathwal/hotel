@@ -1,0 +1,11 @@
+{
+  "name": "hotal",
+  "version": "1.0.0",
+  "description": "hotal management",
+  "main": "hotel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ricky",
+  "license": "ISC"
+}
